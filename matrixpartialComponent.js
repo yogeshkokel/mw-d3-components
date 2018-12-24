@@ -1,4 +1,7 @@
-// This File is not Part of MW Library
+/*
+filename: matrixpartialComponent.js
+description: Advance Evalute Matrix Partial Component
+*/
 
 "use strict";
 
